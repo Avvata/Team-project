@@ -164,9 +164,9 @@ nav .nav-header {
 /*banner photo*/
 .img {
   padding: 0;
-  width: 120%;
+  width: 100%;
   position: relative;
-  left: -6%;
+/*  left: -6%;*/
 }
 @media only screen and (max-width: 480px) {
   .img {
